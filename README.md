@@ -1,15 +1,35 @@
 <div align="center">
   <h1>Hi there, I'm Carla! 👋</h1>
   <h3>Product & Information Architect | Cloud Engineer | Data Specialist</h3>
+  <p>
+    <a href="#english">English</a> • 
+    <a href="#español">Español</a>
+  </p>
 </div>
 
-## 🚀 About Me
+---
+
+<h2 id="english">🇬🇧 English</h2>
+
+### 🚀 About Me
 
 I don't just write code; I design ecosystems. My work bridges the gap between raw data governance, high-availability cloud infrastructure, and user-centric product design. 
 
 With a strong foundation in Archival Science and advanced Data Mining, I understand the deep structural logic of information before a single line of code is written. My tenure as an enterprise Cloud DBA (AWS, Azure, GCP) forged my ability to design resilient, scalable architectures that thrive under strict SLAs and high-pressure environments.
 
 Today, I orchestrate end-to-end digital products. Whether I am mapping a relational database, configuring a CI/CD pipeline, or crafting a glassmorphism UI, my focus remains constant: translating complex data architectures into seamless, high-impact digital realities.
+
+---
+
+<h2 id="español">🇪🇸 Español</h2>
+
+### 🚀 Sobre Mí
+
+No solo escribo código; diseño ecosistemas. Mi trabajo acorta la brecha entre la gobernanza de datos crudos, la infraestructura cloud de alta disponibilidad y el diseño de productos centrados en el usuario.
+
+Con una sólida formación en Archivología (Arquitectura de la Información) y Data Mining avanzado, comprendo la profunda lógica estructural de la información mucho antes de escribir una sola línea de código. Mi trayectoria como Cloud DBA en entornos corporativos de misión crítica (AWS, Azure, GCP) forjó mi capacidad para diseñar arquitecturas resilientes y escalables, preparadas para prosperar bajo SLAs estrictos y entornos de alta presión.
+
+Hoy, orquesto productos digitales de principio a fin (end-to-end). Ya sea mapeando una base de datos relacional, configurando un pipeline de CI/CD o diseñando una interfaz visual moderna (*glassmorphism*), mi enfoque permanece constante: traducir arquitecturas de datos complejas en realidades digitales fluidas y de alto impacto.
 
 ---
 
